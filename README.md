@@ -23,3 +23,4 @@ Nostalrius is a 7.7 clone project that has been in development for a long time, 
   - If you would like to support my work and also to continue to keep me motivated in updating missing details, please, consider donating.
   - PayPal / Zelle
   - blacklabel2565@hotmail.com
+#############
